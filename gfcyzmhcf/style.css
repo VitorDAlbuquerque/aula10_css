@@ -1,0 +1,16 @@
+*{
+    background-color: yellow;
+}
+
+.souDiv{
+    height: 100px;
+    width: 100%;
+    font-size: 26px;
+    background-color: rgb(233, 233, 233);
+}
+
+#souDiv1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
