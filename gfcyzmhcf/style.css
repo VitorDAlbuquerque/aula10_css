@@ -1,16 +1,55 @@
 *{
-    background-color: yellow;
+    background-color: rgb(129, 129, 86);
 }
 
 .souDiv{
     height: 100px;
     width: 100%;
     font-size: 26px;
-    background-color: rgb(233, 233, 233);
+    margin: 100px;
+    background-color: rgb(235, 235, 235);
+    
 }
 
 #souDiv1{
     height: 100px;
     width: 100px;
-    background-color: brown;
+    background-color: rgb(42, 138, 165);
+    margin: 100px;
+    border: 2px solid;
+    border-color: black;
 }
+
+p.souDiv{
+    font-size:20px;
+}
+
+.block-element{
+    display: block;
+    width: 300px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.inline-element{
+display: inline;
+background-color: lightsalmon;
+padding: 5px;
+}
+
+.inline-block-element{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    background-color: lightcoral;
+    margin-top: 10px;
+}
+
+.none-element{
+    display: none;
+    
+    width: 100%;
+    height: 100px;
+    background-color: aquamarine;
+}
+
